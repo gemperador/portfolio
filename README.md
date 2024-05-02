@@ -20,3 +20,5 @@ This is a website to showcase my projects to show off to future employers.
 Made by Gabby 
 
 ## License
+
+![alt text](image-1.png)

@@ -16,7 +16,7 @@ body {
   @media (max-width: 768px) {
     body {
       font-size: 14px;
-    }
+   }
   }
   
   /* Media query for screens smaller than 576px */
